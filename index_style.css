@@ -1,0 +1,9 @@
+div{
+    background-color: tomato;
+    height: 100%;
+    padding-left: 15px;
+}
+h2{
+    display: inline;
+    background-color:blue ;
+}
